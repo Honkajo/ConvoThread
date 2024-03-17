@@ -2,7 +2,7 @@
 
 ## Overview
 
-ConvoThread is a chat application where users can discuss various topics with other users and even create their own threads where people can send messages to. 
+*ConvoThread* is a chat application where users can discuss various topics with other users and even create their own threads where people can send messages to. 
 The application shows different discussion areas, each of which has a spesific topic. Areas have discussion threads that consist of messages. Each user is a basic user or an administrator.
 
 ### Current Features
