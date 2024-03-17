@@ -17,3 +17,5 @@ The application shows different discussion areas, each of which has a spesific t
 - The administrator can add and remove discussion areas.
 - An administrator can create a secret area and specify which users have access to the area.
 
+## Getting Started
+
